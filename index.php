@@ -6,6 +6,8 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Hi</h1>
+    <?php
+        echo "<h1>Hi I'm Regan</h1>"
+    ?>
 </body>
 </html>
